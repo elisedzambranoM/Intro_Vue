@@ -1,0 +1,9 @@
+body {
+  text-align-last: center;
+}
+ol {
+  display: inline-block;
+}
+ol li {
+  margin: 10px;
+}
